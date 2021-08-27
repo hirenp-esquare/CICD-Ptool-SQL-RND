@@ -1,0 +1,86 @@
+8/27/2021 2:58:18 PM	This log contains information about the import schema operation into project 'DemoDBProject' on computer 'HIRENPC' by user 'hirenp'.
+8/27/2021 2:58:19 PM	Import of database schema has started.
+8/27/2021 2:58:35 PM	Gathering database credentials
+8/27/2021 2:58:35 PM	Gathering database options
+8/27/2021 2:58:35 PM	Gathering generic database scoped configuration option
+8/27/2021 2:58:35 PM	Gathering users
+8/27/2021 2:58:35 PM	Gathering roles
+8/27/2021 2:58:35 PM	Gathering application roles
+8/27/2021 2:58:35 PM	Gathering role memberships
+8/27/2021 2:58:35 PM	Gathering filegroups
+8/27/2021 2:58:35 PM	Gathering full-text catalogs
+8/27/2021 2:58:35 PM	Gathering assemblies
+8/27/2021 2:58:35 PM	Gathering certificates
+8/27/2021 2:58:35 PM	Gathering asymmetric keys
+8/27/2021 2:58:35 PM	Gathering symmetric keys
+8/27/2021 2:58:35 PM	Gathering encrypted symmetric keys
+8/27/2021 2:58:35 PM	Gathering schemas
+8/27/2021 2:58:35 PM	Gathering XML schema collections
+8/27/2021 2:58:35 PM	Gathering user-defined data types
+8/27/2021 2:58:35 PM	Gathering user-defined types
+8/27/2021 2:58:35 PM	Gathering table types
+8/27/2021 2:58:35 PM	Gathering unique keys for table types
+8/27/2021 2:58:35 PM	Gathering primary keys for table types
+8/27/2021 2:58:35 PM	Gathering indexes for table types
+8/27/2021 2:59:32 PM	Gathering check constraints for table types
+8/27/2021 2:59:32 PM	Gathering default constraints for table types
+8/27/2021 2:59:32 PM	Gathering partition functions
+8/27/2021 2:59:32 PM	Gathering partition schemes
+8/27/2021 2:59:32 PM	Gathering functions
+8/27/2021 2:59:32 PM	Gathering encrypted functions
+8/27/2021 2:59:32 PM	Gathering aggregates
+8/27/2021 2:59:32 PM	Gathering procedures
+8/27/2021 2:59:32 PM	Gathering encrypted procedures
+8/27/2021 2:59:32 PM	Gathering tables
+8/27/2021 2:59:32 PM	Gathering primary keys
+8/27/2021 2:59:32 PM	Gathering unique constraints
+8/27/2021 2:59:32 PM	Gathering foreign keys
+8/27/2021 2:59:32 PM	Gathering default constraints
+8/27/2021 2:59:44 PM	Gathering check constraints
+8/27/2021 2:59:44 PM	Gathering views
+8/27/2021 2:59:44 PM	Gathering encrypted views
+8/27/2021 2:59:44 PM	Gathering indexes
+8/27/2021 2:59:44 PM	Gathering statistics
+8/27/2021 2:59:44 PM	Gathering full-text index stoplists
+8/27/2021 2:59:44 PM	Gathering search property lists
+8/27/2021 2:59:44 PM	Gathering search properties
+8/27/2021 2:59:44 PM	Gathering full-text indexes
+8/27/2021 2:59:44 PM	Gathering column store indexes
+8/27/2021 2:59:56 PM	Gathering spatial indexes
+8/27/2021 2:59:56 PM	Gathering XML indexes
+8/27/2021 2:59:56 PM	Gathering Selective XML indexes
+8/27/2021 2:59:56 PM	Gathering encrypted triggers
+8/27/2021 2:59:56 PM	Gathering triggers
+8/27/2021 2:59:56 PM	Gathering encrypted and clr ddl triggers
+8/27/2021 2:59:56 PM	Gathering ddl triggers
+8/27/2021 2:59:56 PM	Creating edge constraints
+8/27/2021 2:59:56 PM	Gathering synonyms
+8/27/2021 2:59:56 PM	Gathering defaults
+8/27/2021 3:01:41 PM	Gathering data constraint uddt bindings
+8/27/2021 3:01:58 PM	Gathering rules
+8/27/2021 3:01:58 PM	Gathering data constraint uddt bindings
+8/27/2021 3:01:58 PM	Gathering message types
+8/27/2021 3:01:58 PM	Gathering queues
+8/27/2021 3:01:58 PM	Gathering contracts
+8/27/2021 3:01:58 PM	Gathering services
+8/27/2021 3:01:59 PM	Gathering event notifications
+8/27/2021 3:01:59 PM	Gathering remote service bindings
+8/27/2021 3:01:59 PM	Gathering broker priorities
+8/27/2021 3:01:59 PM	Gathering signatures
+8/27/2021 3:01:59 PM	Gathering data compression options
+8/27/2021 3:01:59 PM	Gathering sequence types
+8/27/2021 3:02:00 PM	Gathering security policies
+8/27/2021 3:02:00 PM	Gather column encryption keys
+8/27/2021 3:02:00 PM	Gathering column master keys
+8/27/2021 3:02:00 PM	Gathering external data sources
+8/27/2021 3:02:00 PM	Gathering external file formats
+8/27/2021 3:02:01 PM	Gathering external tables
+8/27/2021 3:02:01 PM	Gathering extended properties
+8/27/2021 3:02:06 PM	Gathering credentials
+8/27/2021 3:02:06 PM	Gathering logins
+8/27/2021 3:02:06 PM	Gathering server audits
+8/27/2021 3:02:09 PM	Scanning project for duplicate elements
+8/27/2021 3:02:09 PM	Finished duplicate element processing
+8/27/2021 3:02:09 PM	Finished importing database.
+8/27/2021 3:02:09 PM	A summary of the import was saved to the following location: D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\Import Schema Logs\DemoDBProject_20210827092818.log
+8/27/2021 3:02:09 PM	Click Finish to continue...

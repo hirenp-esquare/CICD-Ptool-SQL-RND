@@ -1,0 +1,9 @@
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\bin\Debug\DemoDBProject.dacpac
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\bin\Debug\DemoDBProject.dll
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\bin\Debug\DemoDBProject.pdb
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\obj\Debug\Model.xml
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\obj\Debug\refactor.xml
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\obj\Debug\postdeploy.sql
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\obj\Debug\predeploy.sql
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\obj\Debug\DemoDBProject.dll
+D:\WFM\workspace_RND\CICD-Ptool-SQL-RND\DemoDBProject\obj\Debug\DemoDBProject.pdb
